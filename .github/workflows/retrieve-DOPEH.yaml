@@ -9,7 +9,7 @@ jobs:
   Get-Google-Drive-Data-And-Plot:
   name: Get Google Drive Data And Plot
   runs-on: ubuntu-latest
-  env:
+  # env:
   # GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
 # GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
 steps:
