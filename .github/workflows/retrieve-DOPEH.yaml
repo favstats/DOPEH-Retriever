@@ -2,7 +2,7 @@ name: Get Google Drive Data And Plot
 on:
   push:
     branches:
-      - main
+      - master
   # - cron: '0 2 */3 * *'
 
 jobs:
